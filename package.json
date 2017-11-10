@@ -1,0 +1,23 @@
+{
+  "name": "hm2",
+  "version": "1.0.0",
+  "description": "Testing HW",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsukoni/Hangman-2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsukoni/Hangman-2.0/issues"
+  },
+  "homepage": "https://github.com/tsukoni/Hangman-2.0#readme"
+}
