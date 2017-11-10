@@ -27,14 +27,5 @@ letterDisplay = function(word) {
             }
             this.updated = this.arrayOfDashes.join('');
             console.log(this.updated);
-        },
-        this.checkForWin = function() {
-            // console.log('victory check complete')
-            // console.log('entered word = ' + this.arrayOfDashes.join(''));
-            // console.log(word);
-            // if(this.arrayOfDashes.join('') == word){
-            //  victory = true;
-            //  return victory;
-
         }
 }
